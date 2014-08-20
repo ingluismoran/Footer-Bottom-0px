@@ -1,3 +1,9 @@
+ /*
+ Luis Rodriguez
+ @luizmirodriguez
+ wwww.luisrodriguez.pe
+ */
+ 
  footer = function(){ 
      /*el alto que tiene el navegador*/
      $alto_navegador= $(window).height();
